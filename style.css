@@ -1,0 +1,11 @@
+#Hintergrund{
+    background-image: url("Hintergrund.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#Überschrift{
+    text-align: center;
+    }
+#Text{
+    font-size: 25px;
+}
