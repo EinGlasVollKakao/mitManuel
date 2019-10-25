@@ -1,17 +1,36 @@
-#Hintergrund{
+@font-face {
+    font-family: Minecraft;
+    src: url("Minecrafter.Alt.ttf");
+}
+@font-face {
+    font-family: Minecraft2;
+    src: url("Minecrafter.Reg.ttf");
+}
+
+#Hintergrund {
     background-image: url("img/hintergrund.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
-#Überschrift{
+
+#Überschrift {
     text-align: center;
-    }
-#Text{
-    font-size: 25px;
+}
+
+#Text {
+    font-size: 30px;
+    text-align: center;
 }
 
 .abstand-from-top {
     margin-top: 10px;
+}
+
+.minecraft-schrift {
+    font-family: Minecraft;
+}
+.minecraft-unterschrift{
+    font-family: Minecraft2;
 }
