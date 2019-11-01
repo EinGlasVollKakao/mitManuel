@@ -1,12 +1,3 @@
-@font-face {
-    font-family: Minecraft;
-    src: url("Minecrafter.Alt.ttf");
-}
-@font-face {
-    font-family: Minecraft2;
-    src: url("Minecrafter.Reg.ttf");
-}
-
 #Hintergrund {
     background-image: url("img/hintergrund.png");
     background-position: center center;
@@ -16,6 +7,7 @@
 }
 
 #Überschrift {
+    font-size: 50px;
     text-align: center;
 }
 
@@ -28,9 +20,3 @@
     margin-top: 10px;
 }
 
-.minecraft-schrift {
-    font-family: Minecraft;
-}
-.minecraft-unterschrift{
-    font-family: Minecraft2;
-}
