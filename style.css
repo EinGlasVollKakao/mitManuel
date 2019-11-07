@@ -9,11 +9,13 @@
 #Überschrift {
     font-size: 50px;
     text-align: center;
+
 }
 
-#Text {
+.Text {
     font-size: 30px;
     text-align: center;
+    align-content: center;
 }
 
 .abstand-from-top {
