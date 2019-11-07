@@ -18,3 +18,7 @@
     align-content: center;
 }
 
+.vcenter {
+    display: flex;
+    align-items: center;
+}
